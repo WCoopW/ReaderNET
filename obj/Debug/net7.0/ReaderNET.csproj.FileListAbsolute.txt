@@ -1,0 +1,15 @@
+E:\Projects\ReaderNET\bin\Debug\net7.0\ReaderNET.exe
+E:\Projects\ReaderNET\bin\Debug\net7.0\ReaderNET.deps.json
+E:\Projects\ReaderNET\bin\Debug\net7.0\ReaderNET.runtimeconfig.json
+E:\Projects\ReaderNET\bin\Debug\net7.0\ReaderNET.dll
+E:\Projects\ReaderNET\bin\Debug\net7.0\ReaderNET.pdb
+E:\Projects\ReaderNET\obj\Debug\net7.0\ReaderNET.csproj.AssemblyReference.cache
+E:\Projects\ReaderNET\obj\Debug\net7.0\ReaderNET.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ReaderNET\obj\Debug\net7.0\ReaderNET.AssemblyInfoInputs.cache
+E:\Projects\ReaderNET\obj\Debug\net7.0\ReaderNET.AssemblyInfo.cs
+E:\Projects\ReaderNET\obj\Debug\net7.0\ReaderNET.csproj.CoreCompileInputs.cache
+E:\Projects\ReaderNET\obj\Debug\net7.0\ReaderNET.dll
+E:\Projects\ReaderNET\obj\Debug\net7.0\refint\ReaderNET.dll
+E:\Projects\ReaderNET\obj\Debug\net7.0\ReaderNET.pdb
+E:\Projects\ReaderNET\obj\Debug\net7.0\ReaderNET.genruntimeconfig.cache
+E:\Projects\ReaderNET\obj\Debug\net7.0\ref\ReaderNET.dll
