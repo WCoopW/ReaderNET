@@ -19,18 +19,10 @@ namespace Reader
         {
             { "что", 0 },
             { "Лев", 0 },
-           
             // добавьте остальные ключевые слова в словарь
         };
-            
-            b.DoWork(path, keywordCounts);
-
-
-
-
-
-
-            Console.ReadKey();
+           b.DoWork(path, keywordCounts);
+           Console.ReadKey();
         }
     }
 }
